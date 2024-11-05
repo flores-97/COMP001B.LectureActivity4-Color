@@ -1,5 +1,48 @@
 .nav{
     float: left;
-    width: 50%;
-    background-color: yellow;
+    width: 100%;
+    background-color: black;
+    color: white;
+    border-color: white;
+    text-align: center;
+    list-style: none;
+    margin-right: 5px;
 }
+a{
+    color: black;
+}
+
+.li{
+    background-color:red;
+    margin: 10px;
+}
+
+a:hover{
+    color: white;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    width: 90%;
+    background-color: red;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+p{
+    color: red;
+    text-align: center;
+    width: 50%;
+    background-color: black;
+    margin-left: 25%;;
+    padding: 15px;
+}
+
+footer{
+    position: fixed;
+    bottom: 15px;
+    left: 15px;
+}
+
+
